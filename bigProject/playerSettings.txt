@@ -1,0 +1,4 @@
+45 6
+brush 1
+pick 1
+shovel 1
