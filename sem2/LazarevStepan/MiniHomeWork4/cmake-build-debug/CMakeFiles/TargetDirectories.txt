@@ -1,0 +1,3 @@
+C:/Users/Stepan/Desktop/sem2/LastHW/LazarevSP/cmake-build-debug/CMakeFiles/LazarevSP.dir
+C:/Users/Stepan/Desktop/sem2/LastHW/LazarevSP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Stepan/Desktop/sem2/LastHW/LazarevSP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

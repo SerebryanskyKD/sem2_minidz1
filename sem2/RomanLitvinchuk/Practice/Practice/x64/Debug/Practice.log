@@ -1,0 +1,27 @@
+﻿  Cave.cpp
+E:\C++\Сем 2\Practice\Inventory.h(39,35): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Cave.cpp")
+  
+  Forest.cpp
+E:\C++\Сем 2\Practice\Inventory.h(39,35): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Forest.cpp")
+  
+  MuseumState.cpp
+E:\C++\Сем 2\Practice\Inventory.h(39,35): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MuseumState.cpp")
+  
+  Practice.cpp
+E:\C++\Сем 2\Practice\Inventory.h(39,35): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Practice.cpp")
+  
+E:\C++\Сем 2\Practice\Practice.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ShopState.cpp
+E:\C++\Сем 2\Practice\Inventory.h(39,35): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "ShopState.cpp")
+  
+  States.cpp
+E:\C++\Сем 2\Practice\Inventory.h(39,35): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "States.cpp")
+  
+  Создание кода...
+  Practice.vcxproj -> E:\C++\Сем 2\Practice\x64\Debug\Practice.exe

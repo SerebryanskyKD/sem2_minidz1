@@ -1,0 +1,36 @@
+﻿  HW_01.cpp
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(5,8): warning C4273: dispersion: несовместимое связывание dll
+  (компиляция исходного файла "/HW_01.cpp")
+      C:\Users\HP\Desktop\MyOwnDll\HW_01.h(10,33):
+      см. предыдущее определение "dispersion"
+  
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(14,24): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(14,24): warning C4244:         with
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(14,24): warning C4244:         [
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(14,24): warning C4244:             _Ty=float
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(14,24): warning C4244:         ]
+  (компиляция исходного файла "/HW_01.cpp")
+  
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(25,8): warning C4273: median: несовместимое связывание dll
+  (компиляция исходного файла "/HW_01.cpp")
+      C:\Users\HP\Desktop\MyOwnDll\HW_01.h(12,33):
+      см. предыдущее определение "median"
+  
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(34,33): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+  (компиляция исходного файла "/HW_01.cpp")
+  
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(34,20): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  (компиляция исходного файла "/HW_01.cpp")
+  
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(37,8): warning C4273: avgSqr: несовместимое связывание dll
+  (компиляция исходного файла "/HW_01.cpp")
+      C:\Users\HP\Desktop\MyOwnDll\HW_01.h(14,33):
+      см. предыдущее определение "avgSqr"
+  
+C:\Users\HP\Desktop\MyOwnDll\HW_01.cpp(48,8): warning C4273: avgValue: несовместимое связывание dll
+  (компиляция исходного файла "/HW_01.cpp")
+      C:\Users\HP\Desktop\MyOwnDll\HW_01.h(16,33):
+      см. предыдущее определение "avgValue"
+  
+     Создается библиотека C:\Users\HP\Desktop\MyOwnDll\x64\Debug\MyOwnDll.lib и объект C:\Users\HP\Desktop\MyOwnDll\x64\Debug\MyOwnDll.exp
+  MyOwnDll.vcxproj -> C:\Users\HP\Desktop\MyOwnDll\x64\Debug\MyOwnDll.dll
